@@ -12,3 +12,4 @@ const vegetables = ['carrot','spinach'];
 const dairy = ['milk', 'cheese'];
 const all = fruit.concat(vegetables,dairy);
 console.log(all);
+
