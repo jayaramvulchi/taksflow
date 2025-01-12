@@ -10,3 +10,10 @@ let arr1 = [1,[2,3],[4,[5,6]]];
 
 let flatArray1 = arr.flat(1);
 console.log(flatArray1);
+
+
+
+let arr2 = [1,[2,3],[4,[5,6]]];
+
+let flatArray2 = arr.flat(Infinity);
+console.log(flatArray1);
